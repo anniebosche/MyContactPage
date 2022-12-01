@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-images: url("Background_fish.png"); 
+  background-image: url("Background_fish.png"); 
   background-size: cover;
   background-repeat: no-repeat;
   background-repeat: fixed;
