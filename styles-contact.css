@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url("Background_fish.png"); 
+  background-image: url("images/Background_fish.png"); 
   background-size: cover;
   background-repeat: no-repeat;
   background-repeat: fixed;
@@ -116,14 +116,14 @@ html, body {
 }
 
 h1 {
-	font-family: ratiomodern, serif; /* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
+	font-family: Georgia, 'Times New Roman', Times, serif; /* Changed font */
 	font-size: 1.75em;
     margin: 0px auto 10px auto;
     color: #fff;
 }
 
 h2 {
-	font-family: ratiomodern, serif; /* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
+	font-family: Georgia, 'Times New Roman', Times, serif; /* Changed font */
 	font-size: 1.25em;
     line-height: 1.4;
     color: #fff;
@@ -132,13 +132,13 @@ h2 {
 }
 
 p {
-	font-family: ratiomodern, serif; /* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
+	font-family: Georgia, 'Times New Roman', Times, serif; /* Changed font */
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
 }
 nav{
-	font-family: ratiomodern, serif;
+	font-family: Georgia, 'Times New Roman', Times, serif; /* Changed font */
 	font-size: 1.2em;
 	width: 400px; 
 	margin: 0 auto; 
